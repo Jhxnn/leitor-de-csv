@@ -1,0 +1,15 @@
+{
+  "name": "leitor-de-csv",
+  "version": "1.0.0",
+  "description": "https://prod.liveshare.vsengsaas.visualstudio.com/join?CCFD1A1FE96804EC4CB7F42EC91BFECF7363",
+  "main": "filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
