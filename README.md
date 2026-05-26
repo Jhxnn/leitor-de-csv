@@ -1,2 +1,1 @@
-[﻿# leitor-de-csv
-](https://prod.liveshare.vsengsaas.visualstudio.com/join?6DDE70B85F00F92277945743C1B937740227)
+https://prod.liveshare.vsengsaas.visualstudio.com/join?CCFD1A1FE96804EC4CB7F42EC91BFECF7363
